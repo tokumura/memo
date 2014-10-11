@@ -47,6 +47,91 @@ Health must remain a NON-NEGOTIABLE RIGHT, for ALL animail
 
 
 ##2.SCC toolkit - Chinzei, Kiyoyuki
+汎用PCを医療機器に。
+Macmini+a で内視鏡カメラにできる。
+MacMini+7inchタッチディスプレイ。
+これでも100万ぐらいする。
+最終的にはテレビのように簡単なものにしたい。(普通の医師でも使えるように）
+早くアイデア、技術が伝わるようにしたい。
+GE エコー downsizing in healthcare.
+安い。使い方が変わる。医師が聴診器のように持ち運んで使うように。
+ダウンサイズングする。小さくする。
+スパコン、プレステ、GPU, Penti, Tablet 　処理速度比較
+iPhoneではまだ足りない。CPU6year behind, USB2..., 
+HDTV capture (thunderbolt) is good.
+time, space, is money.
+small computing for 
+be small(MacMini), no keyborad/mouse, focus a purpose(functions <3), affordable(under 100,000yen), falst cpu/gpu, fast I/O
+i
+SCC toolkit library. MIT lic, clinical Research, Free
+MacOSX is main. windows ver exist, but less quality.
+Intel NUC
+Function 
+  video capture
+  image processing
+  image display QT
+  -- Use smartphone. now developing.
+  -- security (Tamper proof)
+
+Feature
+openCV extension, 
+Qt Extension
+
+Latency 
+< 130minsec
+
+一番のインパクトは価格
+スタンド台のシステムが、MacMini+タッチディスプレイに。$10,000->$1,000 破壊的
+
+薬事法について
+2014/11/25 施行
+
+ぎもん
+  何をすべきか
+  私のソフトは規制対象
+  ソースコードの提供は製造販売
+  β版は未承認危機？
+
+
+法分譲の変更は２カ所だけ。
+法２条１の２
+法２条１８
+考え方には変化はない。
+
+何をすべきか
+  許認可
+  製造販売承認、品目毎
+  製造販売許可
+  製造業登録
+
+承認をとるには
+ ISO14971
+ ISO13485
+ IEC
+ IEC
+
+私のソフトは規制対象
+  パブコメ募集中(10/13)
+  search.e-gov.go.jp/servlet/Public?OZbJCD=100495
+  PACSだけは該当しない
+  教育、説明、業務支援、
+  健康管理用プログラム
+  一般医療機器
+
+コードの提供は製造販売
+不明、功労賞に相談中
+プログラムとは実行可能形式のことらしい EXEとか
+圧縮、インストーラー　実行できないが素人でもつかえる
+コードは元リュだ
+コンパイルを要求するのは対象外だ。という試験
+
+
+未承認は？
+従来の基準はソフトには適用できない。ハードウェア前提。
+iOSのTestFlightはどうなのか。
+SCCToolkit
+　臨床の場合は共同研究契約を結ぶことを要求している。
+
 
 
 
