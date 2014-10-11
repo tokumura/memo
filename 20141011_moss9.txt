@@ -1,0 +1,114 @@
+##はじめに
+1000Prj 医療OSS
+ORCAが世界最大（万レベルは稀）
+金はないが情熱はある
+
+##1.GNU Health - Luis Falcon
+
+GNU health : the free health and hosptail info system.
+relies on free tech
+iTransifex, WIKIBOOKS GNU Savannah(code, mailing list, bug trackin)
+we adpts HL7 support - FHIR
+ORtHANC(PACSserver) imaging 
+Health Crypto: PKI GNUPG privasy guard
+
+Social Deiseases
+Ebola is a social disease - Why social? answer is simple 'poverty'
+Saah Exco : the voice to  the voiceless.
+
+GNU HEalth is free soft
+Public good social activism
+
+
+we fight against social diseases.
+
+People befoe Patients.
+System of Health.
+Empowering your commnity
+Family.
+key for quickly location them in outbreaks.
+
+Health tree. Tryton
+ジャマイカではどの場所でどういう病気が起こっているか俯瞰できるようになっている。
+Georeferencing and early warning system. 地図上に伝染病情報をマッピング
+Open street Maps(OSM) & gnu health intergraton.
+
+Data aggregation, reporting adn epidemiology engine.
+
+Gov of Jamaica chooses GNU Health.(GNU SOLIDARIO)
+300+ GNU health facilities nation-wide. in Jamaica. and aggrecate all data.
+
+some gnu health 
+@gnuhealth
+
+In Loving Memory.
+killd in spain by the same who destroyed the public health system
+Health must remain a NON-NEGOTIABLE RIGHT, for ALL animail
+
+
+##2.SCC toolkit - Chinzei, Kiyoyuki
+
+
+
+
+
+
+
+
+
+##3.ORCA - 前田修吾
+
+
+
+
+
+
+
+
+
+
+
+
+##4.Open data GIS - 青木和人
+
+
+
+
+
+
+
+
+
+
+##5.OpenDolphon To Go - Hideo Hanabusa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
